@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 Jun 2022 12:21:10 at https://myeasytronbot.com/?l=es +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://myeasytronbot.com/?l=es -O1 "C:\Users\nolipc\Desktop\CLONARWEB\Prueba 2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:21:37	Error: 	"Not Found" (404) at link https://myeasytronbot.com/cdn.rawgit.com/mfd/09b70eb47474836f25a21660282ce0fd/raw/e06a670afcb2b861ed2ac4a1ef752d062ef6b46b/Gilroy.css (from https://myeasytronbot.com/frontend-app/assets/css/main.css)
+12:21:37	Warning: 	File not parsed, looks like binary: https://myeasytronbot.com/frontend-app/assets/fonts/icons/Icons-Lineb26c.html?v=2.4.0
+12:21:37	Warning: 	Warning: store application/octet-stream without scan: C:/Users/nolipc/Desktop/CLONARWEB/Prueba 2/myeasytronbot.com/frontend-app/assets/fonts/icons/Icons-Lineb26cb26c.html
+12:21:37	Error: 	"Not Found" (404) at link https://myeasytronbot.com/frontend-app/assets/images/favicon.ico (from https://myeasytronbot.com/frontend-app/assets/css/vendor/gallery.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 36 seconds : 133 links scanned, 130 files written (8687659 bytes overall) [6784009 bytes received at 188444 bytes/sec], 2493633 bytes transferred using HTTP compression in 75 files, ratio 20%, 7.8 requests per connection
+(2 errors, 2 warnings, 0 messages)
